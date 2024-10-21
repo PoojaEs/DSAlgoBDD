@@ -35,11 +35,11 @@
 </dependency>
 
     <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
-<dependency>
+<!--dependency>
     <groupId>io.cucumber</groupId>
     <artifactId>cucumber-testng</artifactId>
     <version>7.18.1</version>
-</dependency>
+</dependency-->
 
 <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
 <dependency>
